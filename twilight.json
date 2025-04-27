@@ -1,6 +1,6 @@
 {
     "name": {
-        "ar": "tweilight1",
+        "ar": "توليت",
         "en": "tweilight1"
     },
     "repository": "https://github.com/lomaux7/tweilight1",
@@ -970,7 +970,7 @@
     ],
     "support_url": "https://example.com",
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     }
 }
